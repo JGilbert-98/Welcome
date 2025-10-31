@@ -1,7 +1,7 @@
 # Hello, I'm Josh
 <a href="https://uk.linkedin.com/in/josh-gilbert-2066a3206"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Senior IT Consultant with 6+ years of experience in enterprise networking. I am now pivoting over to cybersecurity using my deep knowledge of network infrastructure to build skills in threat detection, risk management, and secure architecture.
+I am a Senior IT Consultant with 6+ years of experience in an MSP and 2 years of those years doing enterprise network projects and installations. I am now pivoting over to cybersecurity using my deep knowledge of network infrastructure to build skills in threat detection, risk management, and secure architecture.
 
 ## Objective
 
