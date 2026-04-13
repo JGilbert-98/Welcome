@@ -1,7 +1,7 @@
 # Hello, I'm Josh
 <a href="https://uk.linkedin.com/in/josh-gilbert-2066a3206"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Senior IT Consultant with 7+ years of experience in an MSP. I am now training to improve my knowledge of cloud infrastructure.
+I am a Senior IT Consultant with 7+ years of experience working at an MSP. I am now training to improve my knowledge in cloud infrastructure.
 
 ## Objective
 
