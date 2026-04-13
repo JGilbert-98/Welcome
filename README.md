@@ -1,11 +1,11 @@
 # Hello, I'm Josh
 <a href="https://uk.linkedin.com/in/josh-gilbert-2066a3206"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Senior IT Consultant with 6+ years of experience in an MSP and 2 years of those years doing enterprise network projects and installations. I am now pivoting over to cybersecurity using my deep knowledge of network infrastructure to build skills in threat detection, risk management, and secure architecture.
+I am a Senior IT Consultant with 7+ years of experience in an MSP. I am now training to improve my knowledge of cloud infrastructure.
 
 ## Objective
 
-My journey in IT Consultancy has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Security Analyst.
+My journey in IT Consultancy has led me to develop a passion for cloud solutions, and I am now eager to transition into this field, specifically aiming to achieve a job as an infrastructure or cloud solutions engineer.
 
 ## Skills
 
@@ -13,31 +13,17 @@ My journey in IT Consultancy has led me to develop a passion for cybersecurity, 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
 ### Network
 <div>
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <a href="https://zeek.org/"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint?msockid=1b4ee91969fa62800e99ff696841635f"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <a href="https://docs.velociraptor.app/docs/overview/"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-   <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel/?msockid=1b4ee91969fa62800e99ff696841635f"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-   <a href="https://www.elastic.co/security/siem?utm_campaign=Bing-B-Security-EMEA-UKI&utm_content=Security-Siem-Exact&utm_source=bing&utm_medium=cpc&device=c&utm_term=elastic%20siem&utm_id=701610000005lJVAAY&msclkid=b237e610fb1416553ff78effcbe7caa9"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -50,5 +36,4 @@ My journey in IT Consultancy has led me to develop a passion for cybersecurity, 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
